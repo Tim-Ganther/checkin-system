@@ -47,10 +47,11 @@ https://yourdomain.com/admin
 
 ## Live Demo
 
-A live demo is available under the following domain
+A live demo is available under the following urls. The Admin Login is default (User:Password)
 
 ```
 https://checkin.yourcustomcode.com
+https://checkin.yourcustomcode.com/admin
 ```
 ## Authors
 
