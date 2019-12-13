@@ -4,9 +4,9 @@ A simple web-based checkin system created for leagues and cups.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on a live system.
 
-### Prerequisites
+### Prerequisite
 
 What things you need to install the software
 
