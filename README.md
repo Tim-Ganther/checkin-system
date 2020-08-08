@@ -50,8 +50,7 @@ https://yourdomain.com/admin
 A live demo is available under the following urls. The Admin Login is default (User:Password)
 
 ```
-https://checkin.yourcustomcode.com
-https://checkin.yourcustomcode.com/admin
+not available anymore
 ```
 ## Authors
 
